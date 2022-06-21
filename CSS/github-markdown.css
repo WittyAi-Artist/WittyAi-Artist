@@ -1034,3 +1034,19 @@
 .markdown-body ::-webkit-calendar-picker-indicator {
   filter: invert(50%);
 }
+
+
+.column-left {
+  float: left;
+  width: 15%;
+}
+
+.column-right {
+  float: right;
+  width: 15%;
+}
+
+.column-center {
+  display: inline-block;
+  width: 75%;
+}

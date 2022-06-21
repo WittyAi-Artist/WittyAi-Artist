@@ -1,5 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
+<link rel="stylesheet" href="CSS/github-markdown.css">
 <style>
 	.markdown-body {
 		box-sizing: border-box;
@@ -18,9 +18,7 @@
 <article class="markdown-body">
 	<h1>Unicorns</h1>
 	<p>All the things</p>
-</article>
-
-<div width="100%" align="right">
+	<div width="100%" align="right">
 	<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=WittyAi-Artist.WittyAi-Artist">
 </div>
@@ -38,6 +36,9 @@
   		<img src="images/Adult-WittyAi-Hi-1000.png"/>
   	</div>
 </div>
+</article>
+
+
 
 
 

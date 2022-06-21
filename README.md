@@ -1,24 +1,24 @@
-<head>
-	<style>
-		body {background-color: powderblue;}
-		h1   {color: blue;}
-		p    {color: red;}
-		.column-left {
-  			float: left;
-  			width: 15%;
-		}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
 
-		.column-right {
-  			float: right;
-  			width: 15%;
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
 		}
-
-		.column-center {
-  			display: inline-block;
-  			width: 85%;
-		}
-	</style>
-</head>
+	}
+</style>
+<article class="markdown-body">
+	<h1>Unicorns</h1>
+	<p>All the things</p>
+</article>
 
 <div width="100%" align="right">
 	<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/">

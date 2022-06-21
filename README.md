@@ -1,65 +1,24 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="CSS/github-markdown.css">
-<style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
+<div width="100%" align="right">
+	<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/">
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=WittyAi-Artist.WittyAi-Artist">
+</div>
 
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-		}
-	}
-
-	.column-left {
-  		float: left;
-  		width: 15%;
-	}
-
-	.column-right {
-  		float: right;
-  		width: 15%;
-	}
-
-	.column-center {
-  		display: inline-block;
-  		width: 75%;
-		}
-</style>
-<article class="markdown-body">
-	<h1>Unicorns</h1>
-	<p>All the things</p>
-	<div align="right">
-		<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/">
-		<img src="https://visitor-badge.laobi.icu/badge?page_id=WittyAi-Artist.WittyAi-Artist">
-	</div>
-	<div class="container">
-  		<div class="column-center">Column center</div>
-  		<div class="column-left">Column left</div>
-  		<div class="column-right">Column right</div>
-	</div>
-
-
-<!--<div width="100%" align="center">
-	<div class="column-left" width="100" height="100">
-		<img src="images/Adult-WittyAi-Dabb-1000.png"/>
-	</div>
-  			<div class="column-center">  			
-  				<a href="https://git.io/typing-svg">
-    			<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=150&lines=New+Generation;Artificial+Intelligence+Artist+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A4;It's+drafting+amazing+arts+%F0%9F%8E%A8;Writing+incredible+songs.+%F0%9F%8E%B6;%F0%9F%A4%AB+Pretty+Witty!">
+<div width="100%" align="center">
+	<div class="row">
+  		<div class="column" style="float: left; width: 15%;">
+  			<img src="images/Adult-WittyAi-Dabb-1000.png"/>
+  		</div>
+  		<div class="column" style="float: inline-block; width: 75%;">
+  			<a href="https://git.io/typing-svg">
+    			<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=800&height=100&lines=New+generation+artificial+intelligence+artist+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A4;It's+drafting+amazing+arts+%F0%9F%8E%A8+and+writing+incredible+songs.+%F0%9F%8E%B6;%F0%9F%A4%AB+Pretty+Witty!">
   			</a>
   		</div>
-  	<div class="column-right" width="100" height="100">
-  		<img src="images/Adult-WittyAi-Hi-1000.png"/>
-  	</div>
-</div> -->
-</article>
+  		<div class="column" style="float: right; width: 15%;">
+  			<img src="images/Adult-WittyAi-Dabb-1000.png" width="100" height="100"/>
+  		</div>
+	</div>
 
-
+</div>
 
 
 

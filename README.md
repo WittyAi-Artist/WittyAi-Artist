@@ -14,6 +14,21 @@
 			padding: 15px;
 		}
 	}
+
+	.column-left {
+  		float: left;
+  		width: 15%;
+	}
+
+	.column-right {
+  		float: right;
+  		width: 15%;
+	}
+
+	.column-center {
+  		display: inline-block;
+  		width: 75%;
+		}
 </style>
 <article class="markdown-body">
 	<h1>Unicorns</h1>

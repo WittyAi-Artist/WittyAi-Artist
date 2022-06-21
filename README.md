@@ -1,5 +1,6 @@
 <div width="100%" align="right">
 	<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/">
+	<img src="https://img.shields.io/badge/Repositories-1-green.svg">
 	<img src="https://img.shields.io/badge/Projects-1-green.svg">
 	<img src="https://img.shields.io/badge/Updated-June%2020,%202022-lightgrey.svg">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=WittyAi-Artist.WittyAi-Artist">

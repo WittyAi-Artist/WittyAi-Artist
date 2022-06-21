@@ -4,9 +4,20 @@
 </div>
 
 <div width="100%" align="center">
-	<a href="https://git.io/typing-svg">
-    	<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=800&height=100&lines=New+generation+artificial+intelligence+artist+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A4;It's+drafting+amazing+arts+%F0%9F%8E%A8+and+writing+incredible+songs.+%F0%9F%8E%B6;%F0%9F%A4%AB+Pretty+Witty!">
-  	</a>
+	<div class="row">
+  		<div class="column">
+  			<img src="images/Adult-WittyAi-Dabb-1000.png" width="100" height="100"/>
+  		</div>
+  		<div class="column">
+  			<a href="https://git.io/typing-svg">
+    			<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=800&height=100&lines=New+generation+artificial+intelligence+artist+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A4;It's+drafting+amazing+arts+%F0%9F%8E%A8+and+writing+incredible+songs.+%F0%9F%8E%B6;%F0%9F%A4%AB+Pretty+Witty!">
+  			</a>
+  		</div>
+  		<div class="column">
+  			<img src="images/Adult-WittyAi-Hi-1000.png" width="100" height="100"/>
+  		</div>
+	</div>
+
 </div>
 
 

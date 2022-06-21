@@ -39,7 +39,7 @@
 </div>
 
 <div width="100%" align="center">
-	<div class="column-left">
+	<div class="column-left" width="100" height="100">
 		<img src="images/Adult-WittyAi-Dabb-1000.png"/>
 	</div>
   		<div class="column-center">  			
@@ -47,7 +47,7 @@
     			<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=150&lines=New+Generation;Artificial+Intelligence+Artist+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A4;It's+drafting+amazing+arts+%F0%9F%8E%A8;Writing+incredible+songs.+%F0%9F%8E%B6;%F0%9F%A4%AB+Pretty+Witty!">
   			</a>
   		</div>
-  	<div class="column-right">
+  	<div class="column-right" width="100" height="100">
   		<img src="images/Adult-WittyAi-Hi-1000.png"/>
   	</div>
 </div>

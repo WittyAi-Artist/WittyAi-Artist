@@ -1,4 +1,4 @@
-<div width="100%" align="right">
+<div width="100%" align="center">
 	<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/">
 	<img src="https://img.shields.io/badge/Repositories-1-green.svg">
 	<img src="https://img.shields.io/badge/Projects-1-green.svg">
@@ -14,9 +14,12 @@
   	</a>
   	<img src="images/Adult-WittyAi-Hi-1000.png" width="130" height="130"/>
   </div>
-
-  <br><br><br><br><br><br><br><br><br>
 </p>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/WittyAi-Artist/OpenSource-iOS" title="OpenSource iOS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=WittyAi-Artist&repo=OpenSource-iOS&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=WittyAi-Artist&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
 
 <!-- - 👋 Hi, I’m @WittyAi-Artist
